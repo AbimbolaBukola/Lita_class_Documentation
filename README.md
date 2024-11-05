@@ -1,7 +1,5 @@
 # Lita_class_Documentation
 
-# LITA_CAPSTONE_PROJECT
-
 ### Project Title: HR Attrition Data
 ---
 [Project Overview](#project-overview)
@@ -41,10 +39,14 @@ In the initial phase of the Data Cleaning and preparation, the following actions
 ### Exploratory Data Analysis
 
 EDA involved exploring of the Data to answer some questions about the Data such as:
-- What is the Total Sales by product , Region and Month
-- What is the Average Sales per product and total revenue by Region
-- What is the Highest-selling Product by total sales value
-- What is the total revenue per product
+- What is the Attrition Count by Department?
+- What is the Total Number of Current Employees?
+- What is the Attrition rate?
+- What is the Average Age of Employees?
+- The total number of Employee?
+- Total Number of Attrition count?
+- What is Attrition count by the Education field?
+- The Sum of Attrition count by Gender?
 ### Data Analysis
 ---
 ---SQL
