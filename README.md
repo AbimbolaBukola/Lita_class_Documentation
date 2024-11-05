@@ -50,19 +50,11 @@ EDA involved exploring of the Data to answer some questions about the Data such 
 ### Data Analysis
 ---
 ---SQL
--- The total sales for each product category--
 
-SELECT [Product] , SUM([Total Sales]) AS Total_Sales
-FROM[dbo].[SalesData$]
-Group By Product
-----
-
----The number of sales transactions in each region--
-SELECT [Region] , count( [Total Sales]) AS Total_Sales_Count
-FROM[dbo].[SalesData$]
-Group By [Region]
 ---
 ### Data Visualization
+----
+
 ![hr attrition data](https://github.com/user-attachments/assets/5d1eaba7-9694-4b61-8863-2ae338b26487)
 
 ![hr data](https://github.com/user-attachments/assets/1b2d7032-10b8-40ac-98ff-3a58f871eb06)
